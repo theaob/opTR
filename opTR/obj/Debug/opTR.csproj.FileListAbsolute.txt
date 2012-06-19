@@ -1,0 +1,10 @@
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\opTR\opTR\bin\Debug\opTR.exe
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\opTR\opTR\bin\Debug\opTR.pdb
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\opTR.exe
+C:\Users\Hp8400Workstation\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\opTR.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\opTR.exe
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\opTR.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\opTR\opTR\bin\Debug\opTR.exe
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\opTR\opTR\bin\Debug\opTR.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\opTR\opTR\obj\Debug\ResolveAssemblyReference.cache
